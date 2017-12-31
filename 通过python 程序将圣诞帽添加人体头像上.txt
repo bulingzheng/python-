@@ -1,0 +1,3 @@
+1.在人体头像上添加圣诞帽
+2.shape_predictor_5_face_landmarks.dat是用 dlib 提供的模型提取人脸的五个关键点
+
